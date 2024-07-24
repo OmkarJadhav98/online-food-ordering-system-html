@@ -1,10 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>Title</title>
 </head>
 <body>
-$END$
+<form action="/acceptOrder" method="post">
+    <h2>Accept Order</h2>
+    <label for="acceptOrderID">Order ID:</label><br>
+    <input type="text" id="acceptOrderID" name="orderID"><br>
+    <input type="submit" value="Accept Order">
+</form>
+
+<form action="/markDelivered" method="post">
+    <h2>Mark Order as Delivered</h2>
+    <label for="markDeliveredOrderID">Order ID:</label><br>
+    <input type="text" id="markDeliveredOrderID" name="orderID"><br>
+    <input type="submit" value="Mark as Delivered">
+</form>
+
+
 </body>
 </html>
