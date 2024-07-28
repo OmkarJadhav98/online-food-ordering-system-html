@@ -2,14 +2,14 @@
 
 This project includes a series of HTML forms designed to facilitate the management of different entities within an Online Food Ordering System. The forms allow users to perform CRUD (Create, Read, Update, Delete) operations on Customers, Restaurants, Menus, Orders, Addresses, Delivery Executives, and Karts. Below are the descriptions of each form and its purpose.
 
-# Customer Form
-## File: customer_form.html
+## Customer Form
+### File: customer_form.html
 <ul>
 <li>Description: This form allows users to add and update customer information. Fields include ID, Name, Email, Phone, and Address.</li>
 </ul>
 
-# Restaurant Form
-## File: restaurant_form.html
+## Restaurant Form
+### File: restaurant_form.html
 <ul>
 <li>Description: This form is used for managing restaurant details. It includes fields for ID, Name, Address, and Menu.</li>
 </ul>
