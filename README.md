@@ -1,6 +1,6 @@
 # online-food-ordering-system-html
 
-HTML Forms for Online Food Ordering System
+# HTML Forms for Online Food Ordering System
 This project includes a series of HTML forms designed to facilitate the management of different entities within an Online Food Ordering System. The forms allow users to perform CRUD (Create, Read, Update, Delete) operations on Customers, Restaurants, Menus, Orders, Addresses, Delivery Executives, and Karts. Below are the descriptions of each form and its purpose.
 
 Customer Form
